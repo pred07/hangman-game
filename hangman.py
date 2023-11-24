@@ -1,6 +1,7 @@
 #Author:Brijith
 import random
 print("WELCOME TO HANGMAN !")
+num 0
 words = ["hacker","bounty","random"]
 secret_word = random.choice(words)
 display_word = []
