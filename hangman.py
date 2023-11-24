@@ -1,3 +1,4 @@
+#Author:Brijith
 import random
 print("WELCOME TO HANGMAN !")
 words = ["hacker","bounty","random"]
